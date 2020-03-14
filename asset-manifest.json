@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https/apurohit55.github.io/arvinds-rolodex/static/css/main.66c3ccac.chunk.css",
+    "main.js": "/https/apurohit55.github.io/arvinds-rolodex/static/js/main.64a23b9e.chunk.js",
+    "main.js.map": "/https/apurohit55.github.io/arvinds-rolodex/static/js/main.64a23b9e.chunk.js.map",
+    "runtime-main.js": "/https/apurohit55.github.io/arvinds-rolodex/static/js/runtime-main.0c6916d3.js",
+    "runtime-main.js.map": "/https/apurohit55.github.io/arvinds-rolodex/static/js/runtime-main.0c6916d3.js.map",
+    "static/js/2.6130c845.chunk.js": "/https/apurohit55.github.io/arvinds-rolodex/static/js/2.6130c845.chunk.js",
+    "static/js/2.6130c845.chunk.js.map": "/https/apurohit55.github.io/arvinds-rolodex/static/js/2.6130c845.chunk.js.map",
+    "index.html": "/https/apurohit55.github.io/arvinds-rolodex/index.html",
+    "precache-manifest.647c058ea4c41458b463c1eea3275e42.js": "/https/apurohit55.github.io/arvinds-rolodex/precache-manifest.647c058ea4c41458b463c1eea3275e42.js",
+    "service-worker.js": "/https/apurohit55.github.io/arvinds-rolodex/service-worker.js",
+    "static/css/main.66c3ccac.chunk.css.map": "/https/apurohit55.github.io/arvinds-rolodex/static/css/main.66c3ccac.chunk.css.map",
+    "static/js/2.6130c845.chunk.js.LICENSE.txt": "/https/apurohit55.github.io/arvinds-rolodex/static/js/2.6130c845.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c6916d3.js",
+    "static/js/2.6130c845.chunk.js",
+    "static/css/main.66c3ccac.chunk.css",
+    "static/js/main.64a23b9e.chunk.js"
+  ]
+}

@@ -1,0 +1,70 @@
+[
+	{
+		"id": 1,
+		"first_name": "Arvind",
+		"last_name": "Purohit",
+		"name": "Arvind Purohit",
+		"email": "arvindgpurohit@gmail.com",
+		"gender": "Make",
+		"ip_address": "26.58.193.2",
+		"address": {
+			"street": "Dunhams Corner Road",
+			"suite": "302",
+			"city": "East Brunswick",
+			"zipcode": "08816"
+		},
+		"phone": "732-390-1264",
+		"image": "arvind6.png"
+	},
+	{
+		"id": 2,
+		"first_name": "Madhu",
+		"last_name": "Purohit",
+		"name": "Madhu Purohit",
+		"email": "chirmi.p@gmail.com",
+		"gender": "Female",
+		"ip_address": "229.179.4.212",
+		"address": {
+			"street": "Dunhams Corner Road",
+			"suite": "302",
+			"city": "East Brunswick",
+			"zipcode": "08816"
+		},
+		"phone": "732-476-7996",
+		"image": "madhu5.png"
+	},
+	{
+		"id": 3,
+		"first_name": "Amrita",
+		"last_name": "Purohit",
+		"name": "Amrita Purohit",
+		"email": "amrita.mona@gmail.com",
+		"gender": "Female",
+		"ip_address": "229.179.4.212",
+		"address": {
+			"street": "Dunhams Corner Road",
+			"suite": "302",
+			"city": "East Brunswick",
+			"zipcode": "08816"
+		},
+		"phone": "732-319-6089",
+		"image": "amrita3.jpg"
+	},
+	{
+		"id": 4,
+		"first_name": "Indraneel",
+		"last_name": "Purohit",
+		"name": "Indraneel Purohit",
+		"email": "indraneelpurohit@gmail.com",
+		"gender": "Male",
+		"ip_address": "229.179.4.212",
+		"address": {
+			"street": "Dunhams Corner Road",
+			"suite": "302",
+			"city": "East Brunswick",
+			"zipcode": "08816"
+		},
+		"phone": "732-618-4357",
+		"image": "indraneel.jpg"
+	}
+]
