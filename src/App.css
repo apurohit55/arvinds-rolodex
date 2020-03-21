@@ -15,6 +15,8 @@ input {
 
 h1 {
 	color: ghostwhite;
+	font-family: 'Bigelow Rules';
+	font-size: xx-large;
 }
 @media (prefers-reduced-motion: no-preference) {
 	.App-logo {
